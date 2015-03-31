@@ -10,6 +10,7 @@ public class MainGameLoop {
 
     public static void main(String[] args) {
 
+        //did this work?
         DisplayManager.createDisplay();
 
         Loader loader = new Loader();
